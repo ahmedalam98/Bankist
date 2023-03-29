@@ -70,7 +70,9 @@ nav {
 }
 
 .login__btn:hover,
-.login__btn:focus {
+.login__btn:focus,
+.btn--sort:hover,
+.btn--sort:focus {
   outline: none;
   color: #777;
 }
@@ -185,6 +187,15 @@ nav {
 
 .summary__value--out {
   color: #f5465d;
+}
+
+.btn--sort {
+  margin-left: auto;
+  border: none;
+  background: none;
+  font-size: 1.3rem;
+  font-weight: 500;
+  cursor: pointer;
 }
 
 /* OPERATIONS */
