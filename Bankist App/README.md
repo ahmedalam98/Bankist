@@ -91,7 +91,7 @@ This project doesn't require any prequesites or dependenscies and you can view i
    ```
 2. Go to project folder
    ```sh
-   cd Bankist_App
+   cd "Bankist App"
    ```
 3. open `index.html` file
 
