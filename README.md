@@ -4,6 +4,6 @@
 
 # Bankist
 
-## [Bankist App](./Bankist\App)
+## [Bankist App](https://github.com/ahmedalam98/Bankist/tree/main/Bankist%20App)
 
-## [BANKIST-User_Interface](./Bankist\Landing\Page)
+## [BANKIST Landing Page](https://github.com/ahmedalam98/Bankist/tree/main/Bankist%20Landing%20Page)
